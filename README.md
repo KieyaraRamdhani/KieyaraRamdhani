@@ -1,4 +1,4 @@
-# Hi, I’m Ruhi 👋
+# Hi, I’m Kieyara 👋
 
 ## 👤 Who am I?
 I’m a student passionate about Information Technology, software development, and building practical projects that solve real problems. I enjoy learning how technology works under the hood and turning ideas into working applications. I am currently studying my Bachelor in Science in Information Technology. 
