@@ -62,7 +62,7 @@ I'm a student passionate about Information Technology, software development, and
 ### 🐍 Contribution Snake (animated)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KieyaraRamdhani/KieyaraRamdhani/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/KieyaraRamdhani/snake.yml" alt="snake animation" />
 </div>
 
 > This animated snake "eats" your contribution graph. It needs the `snake.yml` GitHub Action added to this same repo — see setup notes below.
