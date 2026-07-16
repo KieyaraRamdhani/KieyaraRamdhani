@@ -76,20 +76,8 @@ First-year IT student and aspiring software developer passionate about coding, A
 - Team Collaboration
 - Critical Thinking
 - Adaptability
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KieyaraRamdhani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieyaraRamdhani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
-
 # GitHub Activity
 
 <div align="center">
