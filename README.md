@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;BSc+Information+Technology+Student;Python+%7C+C%2B%2B+%7C+JavaScript;Building+Modern+Web+Applications" alt="Typing SVG" />
 
 <p>
-A modern portfolio showcasing my journey in software development,
-artificial intelligence, and web technologies.
+First-year IT student and aspiring software developer passionate about coding, AI, and continuous learning.
 </p>
 
 <p>
