@@ -122,6 +122,6 @@ First-year IT student and aspiring software developer passionate about coding, A
 
 ### Thanks for visiting my portfolio repository!
 
-⭐ If you any of my project, consider starring the repository.
+⭐ If you like any of my projects, consider starring the repository or project.
 
 </div>
