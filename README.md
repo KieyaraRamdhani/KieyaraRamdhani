@@ -27,20 +27,16 @@ First-year IT student and aspiring software developer passionate about coding, A
 
 # Portfolio Preview
 
-> A responsive portfolio website featuring modern UI, smooth animations, and interactive components.
+> First-year BSc Information Technology student passionate about software development, AI, cybersecurity, and building real-world projects with Python, C++, and modern web technologies.
 
-## Features
+## Best Featured Projects Include:
 
-- Responsive Design
-- Animated Hero Section
-- About Page
-- Skills Showcase
-- Project Gallery
-- Contact Form
-- Glassmorphism UI
-- Modern Navigation
-- Interactive Components
-- GitHub Integration (Coming Soon)
+- Artificial Intelligence & AI Workflows
+- Software Development with Python & C++
+- Full-Stack Web Development
+- Cybersecurity Fundamentals
+- Open Source & GitHub Projects
+
 
 ---
 
@@ -53,68 +49,33 @@ First-year IT student and aspiring software developer passionate about coding, A
 </p>
 
 ---
-
-# Project Structure
-
-```text
-kieyara-portfolio/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── resume/
-│
-├── css/
-│   ├── animations.css
-│   ├── responsive.css
-│   ├── style.css
-│   └── variables.css
-│
-├── docs/
-│   └── screenshots/
-│
-├── js/
-│   ├── animations.js
-│   ├── app.js
-│   ├── cursor.js
-│   ├── navbar.js
-│   ├── particles.js
-│   └── typing.js
-│
-├── pages/
-│   ├── about.html
-│   ├── projects.html
-│   └── contact.html
-│
-├── index.html
-├── LICENSE
-└── README.md
-```
+### Core Skills
+- Python
+- C++
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- SQL
+- React
+- GitBash
+- Node.js
 
 ---
 
-# Technologies
-
-| Frontend | Languages | Tools |
-|----------|-----------|-------|
-| HTML5 | Python | Git |
-| CSS3 | C++ | GitHub |
-| JavaScript | SQL | VS Code |
-| jQuery | | Figma |
+### Currently Learning
+- AI Automation
+- Cloud Computing
+- Data Structures & Algorithms
+- Software Engineering Best Practices
 
 ---
-
-# Current Status
-
-- Homepage Complete
-- About Page Complete
-- Projects Page Complete
-- Contact Page Complete
-- Responsive Layout In Progress
-- Interactive Animations In Progress
-- Three.js Integration Planned
-- AI Chatbot Planned
-
+### Soft Skills
+- Problem Solving
+- Continuous Learning
+- Team Collaboration
+- Critical Thinking
+- Adaptability
 ---
 
 # GitHub Statistics
@@ -173,6 +134,6 @@ kieyara-portfolio/
 
 ### Thanks for visiting my portfolio repository!
 
-⭐ If you like this project, consider starring the repository.
+⭐ If you any of my project, consider starring the repository.
 
 </div>
