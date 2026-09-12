@@ -64,6 +64,7 @@ First-year IT student and aspiring software developer passionate about coding, A
 ---
 
 ### Currently Learning
+-App development
 - AI Automation
 - Cloud Computing
 - Data Structures & Algorithms
