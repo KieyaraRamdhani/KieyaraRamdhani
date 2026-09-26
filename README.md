@@ -57,9 +57,13 @@ First-year IT student and aspiring software developer passionate about coding, A
 - JavaScript
 - Git & GitHub
 - SQL
-- React
+- React Native
 - GitBash
 - Node.js
+- Numpy
+- Matplotlib
+- Pandas
+- Beautiful Soup
 
 ---
 
