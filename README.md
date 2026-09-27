@@ -64,6 +64,7 @@ First-year IT student and aspiring software developer passionate about coding, A
 - Matplotlib
 - Pandas
 - Beautiful Soup
+- react router
 
 ---
 
