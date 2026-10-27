@@ -55,6 +55,7 @@ First-year IT student and aspiring software developer passionate about coding, A
 - HTML5
 - CSS3
 - JavaScript
+- Flutter
 - Git & GitHub
 - SQL
 - React Native
