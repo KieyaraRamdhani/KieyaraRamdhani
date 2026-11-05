@@ -83,8 +83,8 @@ due to be done soon
 
 ## Connect
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+- LinkedIn: kieyara-ramdhani
+- Email: ramdhanikieyara@gmail.com
 
 ---
 
