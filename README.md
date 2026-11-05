@@ -53,15 +53,8 @@ I enjoy building applications, exploring new technologies and solving real-world
 - Machine Learning
 - AI Engineering
 
-## Projects
-
-**CatchAChow**
-
-A food budgeting and meal-planning application designed to make affordable eating easier through AI-powered suggestions and grocery comparisons.
-
-**Richfield Connect**
-
-A digital student platform designed to connect students, graduates and opportunities.
+## Projects:
+due to be done soon
 
 ## Experience
 
