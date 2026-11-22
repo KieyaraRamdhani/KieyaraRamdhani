@@ -1,95 +1,117 @@
 
-<div align="center">
+# Hi there 👋, I'm Kieyara Ramdhani
 
-# KIEYARA
+**Aspiring Software Developer | BSc Information Technology Student | AI & Full-Stack Development Enthusiast**
 
-**Software Developer | BSc Information Technology**
+I'm passionate about building technology, exploring artificial intelligence and turning ideas into real-world applications.
 
-South Africa
-
-*Building ideas into reality, one line of code at a time.*
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
 
 ---
 
-## About Me
+## 🙋‍♀️ About Me
 
-Hi, I'm Kieyara, a Software Developer and Information Technology student interested in software engineering, artificial intelligence and technology.
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)
 
-I enjoy building applications, exploring new technologies and solving real-world problems through code.
+- 🎓 Currently pursuing a **Bachelor of Science in Information Technology (BSc IT)** at Richfield.
+- 💻 Interested in software engineering, full-stack development and artificial intelligence.
+- 🤖 Exploring how AI can solve real-world problems and improve everyday experiences.
+- 🌱 Constantly learning, experimenting and expanding my technical skills.
+- 🚀 I enjoy turning creative ideas into functional applications.
+- 🎯 Working towards becoming a skilled software developer and contributing to meaningful technology projects.
 
-- Currently pursuing a BSc in Information Technology.
-- Interested in Software Development and Artificial Intelligence.
-- Exploring Full Stack and Frontend Development.
-- Always learning, experimenting and building.
+## 🔭 What I'm Working On
 
-## Technologies & Tools
+I'm currently exploring different areas of software development through personal projects, hackathons and practical experience.
+
+Some of my projects include:
+
+- **CatchAChow** – A food budgeting and meal-planning application designed to make affordable eating easier.
+- **PulseNews** – A React Native news application.
+- **Richfield Connect** – A student-focused academic and social networking platform.
+- **Tech-Connect Hub** – A platform connecting students, graduates and businesses.
+- **Tower of Anime Clash** – An anime-inspired Roblox tower and combat game.
+
+## 🌱 Technologies & Tools
 
 **Languages**
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- Dart
 
-**Frameworks & Libraries**
-- React
-- Flutter
-- Node.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
-- Git & GitHub
-- Visual Studio Code
-- Figma
-- Firebase
-- Supabase
-- MySQL
+**Frameworks & Development**
 
-**AI Technologies**
-- Claude
-- Gemini
-- Machine Learning
-- AI Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Projects:
-due to be done soon
+**AI & Data Science**
 
-## Experience
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- Full Stack Development Intern — Future Interns
-- Front-End AI Engineering Intern — FlyRank AI
-- Machine Learning Intern
+## 💼 Experience
 
-## Certifications & Achievements
+-**Hyve Global**- A information Technology intern currently 
+- **Full Stack Development Intern** – Future Interns
+- **Machine Learning Intern** – Practical exposure to machine learning.
+- **Front-End AI Engineering Intern** – FlyRank AI
 
-- Google AI Essentials
-- Claude Academy — AI Fluency
-- Anthropic Claude 101
-- Cisco — Getting Started with Data
-- Microsoft Agents League — Enterprise Agents Badge
+I'm interested in combining software engineering and AI to build applications that are useful, accessible and innovative.
+
+## 📜 Certifications & Learning
+
+- Google AI Essentials – Google & Capaciti
+- Claude Academy – AI Fluency Certification
+- Anthropic – Claude 101
+- Cisco – Getting Started with Data
+- Cisco Packet Tracer
+- Vibe Coding – Cursor AI, Replit & Windsurf
+- Microsoft Agents League – Enterprise Agents Badge
 - Google Developer Program
 
-## GitHub Statistics
+## 🏆 Achievements & Communities
 
-<div align="center">
+- Accepted into the Google Developer Program.
+- Participated in technology-focused hackathons and innovation challenges.
+- Developed practical projects through internships and independent learning.
+- Continuously building my portfolio through hands-on software development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=000000&icon_color=000000" width="48%"/>
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=000000" width="48%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
 
-## Connect
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)
 
-- LinkedIn: kieyara-ramdhani
-- Email: ramdhanikieyara@gmail.com
+## 🔨 What I Want to Explore Next
+
+- Advanced Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Software Architecture and Engineering
+- Mobile Application Development
+- Open-Source Contributions
+- Building and launching real-world products
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers, learning from others, collaborating on projects and exploring new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
-<div align="center">
-
-*Learn. Build. Innovate.*
-
-</div>
+*"Building, learning and evolving — one line of code at a time."*
