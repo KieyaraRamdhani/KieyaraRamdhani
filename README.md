@@ -28,11 +28,9 @@ I'm currently exploring different areas of software development through personal
 
 Some of my projects include:
 
-- **CatchAChow** – A food budgeting and meal-planning application designed to make affordable eating easier.
-- **PulseNews** – A React Native news application.
 - **Richfield Connect** – A student-focused academic and social networking platform.
 - **Tech-Connect Hub** – A platform connecting students, graduates and businesses.
-- **Tower of Anime Clash** – An anime-inspired Roblox tower and combat game.
+
 
 ## 🌱 Technologies & Tools
 
